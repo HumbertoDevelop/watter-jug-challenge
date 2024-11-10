@@ -1,8 +1,31 @@
-# React + Vite
+# Mi Aplicación React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Esta es una aplicación React que utiliza componentes y estilos personalizados. Sigue las instrucciones a continuación para configurar y ejecutar la aplicación en tu entorno local.
 
-Currently, two official plugins are available:
+## Requisitos
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Asegúrate de tener instalados los siguientes requisitos antes de continuar:
+
+- Node.js (versión 20.0.0 o superior)
+- npm (versión 9.6.4 o superior)
+
+## Instalación
+
+1. Clona el repositorio en tu máquina local:
+
+   ```bash
+   git clone https://https://github.com/HumbertoDevelop/watter-jug-challenge.git
+   
+2. Navega al directorio del proyecto:
+
+    ``bash
+    cd watter-jug-challenge
+
+3. Instala las dependencias:
+
+    ``bash
+    npm install o npm i
+
+4. Corre la app:
+    ``bash
+    npm run dev
