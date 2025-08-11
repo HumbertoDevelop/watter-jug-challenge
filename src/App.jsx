@@ -11,7 +11,7 @@ function App() {
   const handleSolve = () => {
     console.log(`x, y, z`, x, y, z);
     const result = solveWaterJug(x, y, z);
- 
+  
     if (result === "No Solution") {
       setSolution("No Solution");
       return;
